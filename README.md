@@ -1,4 +1,4 @@
-# LeetCode Daily Solutions
+# LeetCode Daily Challenges
 
 This repository contains my solutions to various LeetCode problems. I don't solve them daily, but I keep track of all
 the problems I solve and store them here. The repository is organized based on a naming convention that helps in
@@ -21,8 +21,9 @@ Where:
 -   `Problem Title` is a short, hyphenated version of the problem name.
 -   `.cpp` is the extension indicating that the solution is written in C++.
 
--   **Inside the Code**:
-    Every solution contains the following structure:
+**Inside the Code**:
+Every solution contains the following structure:
+
 -   **First Line**:
     A comment with the **LeetCode problem link**.
     Example:
@@ -38,9 +39,10 @@ Where:
 -   **Solution Code**:
     The actual C++ code solving the problem.
 
--   **Folder Structure**:
-    If a folder exists instead of a single `.cpp` file, it means that there are multiple solutions for a given problem.
-    These solutions may vary in:
+**Folder Structure**:
+If a folder exists instead of a single `.cpp` file, it means that there are multiple solutions for a given problem.
+These solutions may vary in:
+
 -   Improved runtime
 -   Optimized memory usage
 -   Shortened code for better readability or efficiency
